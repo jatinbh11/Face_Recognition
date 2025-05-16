@@ -8,21 +8,7 @@ This is a real-time **Face Recognition Attendance System** built using OpenCV, s
 
 ---
 
-## 📁 Project Structure
 
-FACE_RECOGNITION_PROJECT/
-│
-├── Attendance/ # Stores daily attendance CSVs
-├── data/ # Pickled face data and cascade file
-│ ├── haarcascade_frontalface_default.xml
-│ ├── faces_data.pkl # Saved face encodings
-│ └── names.pkl # Corresponding names
-│
-├── add_faces.py # Script to add new face data
-├── test.py # Face recognition & attendance logger
-├── app.py # Streamlit web app for attendance viewing
-├── bg.jpg # Background image for GUI overlay
-└── README.md # This documentation file
 
 markdown
 Copy

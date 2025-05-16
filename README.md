@@ -8,14 +8,6 @@ This is a real-time **Face Recognition Attendance System** built using OpenCV, s
 
 ---
 
-
-
-markdown
-Copy
-Edit
-
----
-
 ## 🚀 Features
 
 - 📸 **Face Data Collection** using webcam (`add_faces.py`)
